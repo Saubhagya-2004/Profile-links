@@ -35,7 +35,7 @@ const Body = () => {
         {/* Links */}
         <div className='space-y-3'>
           <a 
-            href="https://saubhagya-2004.github.io/portfolio/" 
+            href="https://saubhagya-portfolio.netlify.app/" 
             target="_blank"
             rel="noopener noreferrer"
             className='flex items-center justify-between gap-4 p-3 rounded-xl bg-gray-50 hover:bg-gray-200 transition-all duration-200 group border border-gray-100 hover:border-gray-200'
