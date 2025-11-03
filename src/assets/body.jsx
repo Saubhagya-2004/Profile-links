@@ -101,7 +101,7 @@ const Body = () => {
           </a>
           
           <a 
-            href="https://drive.google.com/file/d/1Yd9jU2azFu6h9ETS6BJ5AixTHDsB9Mkq/view?usp=sharing" 
+            href="https://drive.google.com/file/d/1WiijVDFpiMhS5oPRV2k8pf1RIcA5rkWj/view?usp=drive_link" 
             target='_blank'
             rel="noopener noreferrer"
             className='flex items-center justify-between gap-3 sm:gap-4 p-2 sm:p-3 rounded-xl bg-gray-50 hover:bg-gray-100 transition-all duration-200 group border border-gray-100 hover:border-gray-200'
